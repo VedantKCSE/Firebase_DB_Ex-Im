@@ -24,5 +24,5 @@
     Run this command, to import the data back to the firestore db fo another project
 
 ```bash
-    npx -p node-firestore-import-export firestore-import -a appConfig.json -b backup.json
+    npx -p node-firestore-import-export firestore-import -a appConfig2.json -b backup.json
 ```
